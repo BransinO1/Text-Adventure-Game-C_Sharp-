@@ -1,0 +1,10 @@
+Player Name: corbin
+Player Health: 100
+Current Room: Starting Room
+Inventory Count: 1
+Item Name: Apple
+Item Description: A red juicy apple.
+Item Weight: 0.2
+Item Value: 10
+Is Consumable: True
+Effect: Restores 5 health points

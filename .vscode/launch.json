@@ -1,0 +1,18 @@
+{
+  // Launch configuration for debugging the Text Adventure Game in C#
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": ".NET Core Launch (console)",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build",
+        "program": "${workspaceFolder}/bin/Debug/net6.0/TextAdventureGame.dll",
+        "args": [],
+        "cwd": "${workspaceFolder}",
+        "console": "internalConsole",
+        "stopAtEntry": false
+      }
+    ]
+  }
+  

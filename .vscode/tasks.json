@@ -1,0 +1,16 @@
+// Tasks configuration for building and running the Text Adventure Game in C#
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "build",
+        "command": "dotnet",
+        "type": "process",
+        "args": [
+          "build",
+          "${workspaceFolder}/TextAdventureGame.csproj"
+        ],
+        "problemMatcher": "$msCompile"
+      }
+    ]
+  }

@@ -1,0 +1,14 @@
+C:\Users\corbi\OneDrive\Documents\Byu-I 2024 Spring\April Second Courses\cse310\Module 1 C#\textadventuregame\bin\Debug\net6.0\textadventuregame.exe
+C:\Users\corbi\OneDrive\Documents\Byu-I 2024 Spring\April Second Courses\cse310\Module 1 C#\textadventuregame\bin\Debug\net6.0\textadventuregame.deps.json
+C:\Users\corbi\OneDrive\Documents\Byu-I 2024 Spring\April Second Courses\cse310\Module 1 C#\textadventuregame\bin\Debug\net6.0\textadventuregame.runtimeconfig.json
+C:\Users\corbi\OneDrive\Documents\Byu-I 2024 Spring\April Second Courses\cse310\Module 1 C#\textadventuregame\bin\Debug\net6.0\textadventuregame.dll
+C:\Users\corbi\OneDrive\Documents\Byu-I 2024 Spring\April Second Courses\cse310\Module 1 C#\textadventuregame\bin\Debug\net6.0\textadventuregame.pdb
+C:\Users\corbi\OneDrive\Documents\Byu-I 2024 Spring\April Second Courses\cse310\Module 1 C#\textadventuregame\obj\Debug\net6.0\textadventuregame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corbi\OneDrive\Documents\Byu-I 2024 Spring\April Second Courses\cse310\Module 1 C#\textadventuregame\obj\Debug\net6.0\textadventuregame.AssemblyInfoInputs.cache
+C:\Users\corbi\OneDrive\Documents\Byu-I 2024 Spring\April Second Courses\cse310\Module 1 C#\textadventuregame\obj\Debug\net6.0\textadventuregame.AssemblyInfo.cs
+C:\Users\corbi\OneDrive\Documents\Byu-I 2024 Spring\April Second Courses\cse310\Module 1 C#\textadventuregame\obj\Debug\net6.0\textadventuregame.csproj.CoreCompileInputs.cache
+C:\Users\corbi\OneDrive\Documents\Byu-I 2024 Spring\April Second Courses\cse310\Module 1 C#\textadventuregame\obj\Debug\net6.0\textadventuregame.dll
+C:\Users\corbi\OneDrive\Documents\Byu-I 2024 Spring\April Second Courses\cse310\Module 1 C#\textadventuregame\obj\Debug\net6.0\refint\textadventuregame.dll
+C:\Users\corbi\OneDrive\Documents\Byu-I 2024 Spring\April Second Courses\cse310\Module 1 C#\textadventuregame\obj\Debug\net6.0\textadventuregame.pdb
+C:\Users\corbi\OneDrive\Documents\Byu-I 2024 Spring\April Second Courses\cse310\Module 1 C#\textadventuregame\obj\Debug\net6.0\textadventuregame.genruntimeconfig.cache
+C:\Users\corbi\OneDrive\Documents\Byu-I 2024 Spring\April Second Courses\cse310\Module 1 C#\textadventuregame\obj\Debug\net6.0\ref\textadventuregame.dll

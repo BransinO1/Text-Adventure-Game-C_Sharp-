@@ -1,0 +1,16 @@
+Player Name: corb
+Player Health: 100
+Current Room: Third Room
+Inventory Count: 2
+Item Name: Key
+Item Description: A shiny golden key.
+Item Weight: 0.1
+Item Value: 100
+Is Consumable: False
+Effect: Unlocks doors
+Item Name: Knife
+Item Description: A sharp knife.
+Item Weight: 0.5
+Item Value: 25
+Is Consumable: True
+Effect: Useful for cutting things
